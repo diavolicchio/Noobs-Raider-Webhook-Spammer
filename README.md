@@ -13,5 +13,5 @@ If you are on Windows you will just need to double click the file and choose to 
 # Run the file on Linux
 If you are on a Linux distro you will open the terminal where the file is contained and you will want to type
 "python3 NoobsRaiderWebhookSpammer.py" and it will open up the file
-# If you are on MacOS
-We are working to explain how it works on MacOS
+# Run the file on MAC
+First of all you will need to install python3, after that just open up a terminal in the webhook spammer folder and type "python3 NoobsRaiderWebhookSpammer.py"
